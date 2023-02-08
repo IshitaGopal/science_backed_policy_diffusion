@@ -1,3 +1,5 @@
+.ipynb_checkpoints
+
 Dataset/
 IRB_docs/
 Letters/
@@ -8,7 +10,6 @@ analysis/objects/
 analysis/plots/
 analysis/EdgeList.csv
 analysis/By_Letter_Summary.xlsx
-
 DUMP/
 
 
